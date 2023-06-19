@@ -1,4 +1,4 @@
-import memoise from "./challange1";
+import memoise from "./challenge1";
 
 describe("memoise", () => {
   let consoleOutput: string[] = [];

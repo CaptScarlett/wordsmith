@@ -1,4 +1,4 @@
-import arabicToRoman from "./challange2";
+import arabicToRoman from "./challenge2";
 
 describe("arabicToRoman", () => {
   it("should convert Arabic numbers to Roman numerals", () => {
